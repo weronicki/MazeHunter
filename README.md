@@ -1,3 +1,5 @@
+![Gameplay](images/banner.png)
+
 # 👻 Maze Hunter
 
 A first-person horror maze game for the **ESP32-C6 SuperMini** and a **128×64 SSD1306 OLED**.
