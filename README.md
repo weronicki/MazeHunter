@@ -29,17 +29,7 @@ Every game generates a completely new maze. Your objective is simple:
 
 # Demo
 
-*(Add screenshots or GIF here)*
-
-Example:
-
-```
-+-----------------------------+
-|                             |
-|        (game screenshot)    |
-|                             |
-+-----------------------------+
-```
+![Gameplay](images/video.gif)
 
 ---
 
@@ -49,6 +39,9 @@ Example:
 - SSD1306 OLED Display (128×64, I2C)
 - 8 × Momentary Push Buttons
 - Breadboard or custom PCB
+
+![Gameplay](images/front.jpg)
+![Gameplay](images/back.jpg)
 
 ---
 
