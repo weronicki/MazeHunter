@@ -170,21 +170,6 @@ Touching the Hunter immediately ends the game.
 
 ---
 
-# Project Structure
-
-```
-MazeHunter/
-│
-├── MazeHunter.ino
-├── README.md
-└── images/
-    ├── gameplay.png
-    ├── minimap.png
-    └── wiring.png
-```
-
----
-
 # Libraries
 
 Install using the Arduino Library Manager.
@@ -215,7 +200,6 @@ No dynamic memory allocation is used during gameplay.
 - Multiple enemy types
 - Flashlight mode
 - Sound effects
-- Footstep audio
 - Difficulty levels
 - Multiple floors
 - Collectable keys
@@ -223,7 +207,6 @@ No dynamic memory allocation is used during gameplay.
 - Better wall textures
 - Animated sprites
 - Saving high scores
-- Battery-powered handheld version
 
 ---
 
@@ -232,7 +215,7 @@ No dynamic memory allocation is used during gameplay.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/MazeHunter.git
+git clone https://github.com/weronicki/MazeHunter.git
 ```
 
 Open
